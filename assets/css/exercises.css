@@ -1,0 +1,63 @@
+#h_exercise {
+    /*color: #2aabd2;*/
+    color: sandybrown;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 16px;
+}
+
+#a_exercise {
+    color: sandybrown;
+    text-shadow: 1px 1px 1px #000;
+}
+#a_exercise:hover {
+    text-decoration: none;
+}
+
+#ex_num {
+    display: inline-block;
+    color: whitesmoke;
+    padding: 4px 10px 4px 10px;
+    background-color: #2aabd2;
+    border-radius: 4px;
+}
+
+#ex_point {
+    color: indianred;
+    font-weight: bold;
+}
+/*Блок "Список упражнений"*/
+.exerciseList {
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background: #F9F9F9;
+    color: #474747;
+    border: solid 1px #c0c0c0;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.exerciseList a {
+    color: #474747;
+}
+
+.exerciseList a:hover {
+    color: #2b669a ;
+}
+
+.ex_part_name {
+    font-size: 11px;
+    font-weight: bold;
+    list-style: none;
+}
+
+.ex_part_name:hover {
+}
+
+.ex_main_name {
+    font-size: 13px;
+}
+
+.ex_main_name:hover {
+}

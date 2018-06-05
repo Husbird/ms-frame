@@ -1,0 +1,28 @@
+.admin_work_forms {
+	padding: 2% 15% 2% 15%;
+	margin-left: 2%;
+	margin-right: 2%;
+
+	display: block;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background: #F9F9F9;
+    color: #474747;
+    border: solid 1px #c0c0c0;
+}
+
+/*#h_v1 {
+    color: sandybrown;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 16px;
+}*/
+
+/*обтекание картинки текстом слева/справа:*/
+.leftimg {
+	float:left; /* Выравнивание по левому краю */
+	margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+.rightimg  {
+	float: right; /* Выравнивание по правому краю  */ 
+	margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+}

@@ -1,0 +1,17 @@
+/* Блок сообщения о успешной отправке формы заказа тренировочной программы */
+#userTrainInfoSaved {
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    max-width: 40%;
+    text-align: center;
+}
+/* Кнопка "ОК" блока сообщения о успешной отправке формы заказа тренировочной программы */
+#infoSavedButtonOk {
+    max-width: 40%;
+    display: block;
+    margin: auto;
+}

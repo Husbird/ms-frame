@@ -1,0 +1,18 @@
+#inputCommentBlock{
+    background-color: ghostwhite;
+    border:whitesmoke 2px solid;
+    border-top-right-radius: 12px;;
+    width:80%;
+    margin: 0 auto;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.2);
+}
+
+#singlePostBlock {
+    border:whitesmoke 2px solid;
+    margin-bottom:5%;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.2);
+    max-width: 70%;
+    border-top-right-radius: 12px;
+    padding: 1%;
+    background-color: ghostwhite;
+}

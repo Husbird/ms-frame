@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://code-info.ru/</loc>
+	<lastmod>2017-11-29T16:01:35+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/lamp/article/i/1/1</loc>
+	<lastmod>2017-11-29T16:01:36+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<!-- <url>
+	<loc>https://code-info.ru/yazyk-si/article/i/1/8</loc>
+	<lastmod>2017-11-29T16:01:38+01:00</lastmod>
+	<priority>0.2</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/zhelezo/article/i/1/9</loc>
+	<lastmod>2017-11-29T16:01:37+01:00</lastmod>
+	<priority>0.2</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/windows/article/i/1/10</loc>
+	<lastmod>2017-11-29T16:01:38+01:00</lastmod>
+	<priority>0.2</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/info/article/all/1</loc>
+	<lastmod>2017-11-29T16:01:39+01:00</lastmod>
+	<priority>0.4</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/contacts</loc>
+	<lastmod>2017-11-29T16:01:40+01:00</lastmod>
+	<priority>0.2</priority>
+</url> -->
+<url>
+	<loc>https://code-info.ru/about</loc>
+	<lastmod>2017-11-29T16:01:41+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<!-- <url>
+	<loc>https://code-info.ru/processor/article/v/56</loc>
+	<lastmod>2017-11-29T16:01:41+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/vybiraem-istochnik-bespereboynogo-pitaniya-ibp-raznovidnosti-ibp/article/v/55</loc>
+	<lastmod>2017-11-29T16:01:42+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/ohlazhdenie-kullery-vybor-kullera-vybor-ventillyatora/article/v/54</loc>
+	<lastmod>2017-11-29T16:01:43+01:00</lastmod>
+	<priority>0.4</priority>
+</url> -->
+<url>
+	<loc>https://code-info.ru/ustanovka-mysql-v-ubuntu-1604/article/v/45</loc>
+	<lastmod>2017-11-29T16:01:43+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/ustanovka-moduley-php-v-ubuntu-1604/article/v/44</loc>
+	<lastmod>2017-11-29T16:01:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/ustanovka-i-nastroyka-php-v-ubuntu-1604/article/v/40</loc>
+	<lastmod>2017-11-29T16:01:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/nastroyka-veb-servera-apache2-v-ubuntu-1604/article/v/39</loc>
+	<lastmod>2017-11-29T16:01:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<!-- <url>
+	<loc>https://code-info.ru/testovaya-statya/article/v/35</loc>
+	<lastmod>2017-11-29T16:01:47+01:00</lastmod>
+	<priority>0.4</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/korpus-pk-vybor-korpusa/article/v/53</loc>
+	<lastmod>2017-11-29T16:01:49+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/zhestkiy-disk/article/v/52</loc>
+	<lastmod>2017-11-29T16:01:49+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/zhelezo/article/i/2/9</loc>
+	<lastmod>2017-11-29T16:01:49+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/vybor-sborki-i-versii-windows/article/v/47</loc>
+	<lastmod>2017-11-29T16:01:51+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/info/article/all/2</loc>
+	<lastmod>2017-11-29T16:01:51+01:00</lastmod>
+	<priority>0.4</priority>
+</url> -->
+<!-- <url>
+	<loc>https://code-info.ru/info/article/all/3</loc>
+	<lastmod>2017-11-29T16:01:51+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/info/article/all/4</loc>
+	<lastmod>2017-11-29T16:01:54+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/videokarta/article/v/51</loc>
+	<lastmod>2017-11-29T16:01:53+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/materinskaya-plata-motherboard/article/v/50</loc>
+	<lastmod>2017-11-29T16:01:55+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/tverdotelnyy-disk-ssd/article/v/49</loc>
+	<lastmod>2017-11-29T16:01:55+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/operativnaya-pamyat/article/v/48</loc>
+	<lastmod>2017-11-29T16:01:56+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://code-info.ru/blok-pitaniya/article/v/46</loc>
+	<lastmod>2017-11-29T16:01:58+01:00</lastmod>
+	<priority>0.4</priority>
+</url> -->
+</urlset>

@@ -1,0 +1,15 @@
+#AddDefaultCharset off
+AddDefaultCharset utf-8
+#AddDefaultCharset windows-1251
+#redirect 301
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+#RewriteRule ^index\.php$ http://dia-max.ru/ [R=301,L]
+
+ErrorDocument 404 /err404.php
+RewriteEngine on
+
+#перенаправить любые запросы на фаил index.php
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f  
+
+RewriteRule ^(.*)$ ./index.php?route=$1

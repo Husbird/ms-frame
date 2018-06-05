@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /info/article/all*/
+Disallow: /contacts
+#Putnik
+Disallow: /zhelezo*/
+Disallow: /windows*/
+Disallow: /processor/article/v/56
+Disallow: /vybiraem-istochnik-bespereboynogo-pitaniya-ibp-raznovidnosti-ibp/article/v/55
+Disallow: /ohlazhdenie-kullery-vybor-kullera-vybor-ventillyatora-maksimalno-prodlit-zhizn-ventillyatora/article/v/54
+Disallow: /korpus-pk-vybor-korpusa/article/v/53
+Disallow: /zhestkiy-disk/article/v/52
+Disallow: /videokarta/article/v/51
+Disallow: /materinskaya-plata-motherboard/article/v/50
+Disallow: /tverdotelnyy-disk-ssd/article/v/49
+Disallow: /operativnaya-pamyat/article/v/48
+Disallow: /blok-pitaniya/article/v/46
+Host: https://code-info.ru
+Sitemap: https://code-info.ru/Sitemap.xml
